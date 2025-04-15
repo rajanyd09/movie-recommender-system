@@ -26,17 +26,11 @@ Our Movie Recommender System, built using Python and Natural Language Processing
 ![Sample Image 5](https://github.com/AnupamMittal-21/Movie-Recommender-System/assets/96871662/02473070-91cf-45a0-8016-eee8b70ee2ae)
 
 
-## Watch the Demo
-
-
-For a live demonstration of our Movie Recommender System, watch the following video:
-[![Watch the Demo](https://img.youtube.com/vi/0BJgu4qZqOM/0.jpg)](https://youtu.be/0BJgu4qZqOM)
-
 
 ## Try the App
 
 Explore the Movie Recommender System yourself! Our app is deployed on Streamlit. Click the link below to get started:
-[**Movie Recommender System App**](https://movie-recommender-syst.streamlit.app/)
+[**Movie Recommender System App**]([https://movie-recommender-syst.streamlit.app/](https://movie-recommender-system-gmkomqewrfaq7inchnmkp6.streamlit.app/)
 
 ## Installation Guide
 
