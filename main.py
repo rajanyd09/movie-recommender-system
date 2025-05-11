@@ -41,7 +41,7 @@ def main():
 
     def recommend_display():
 
-        st.title('Movie Recommender System')
+        st.title('Movie Recommendation System')
 
         selected_movie_name = st.selectbox(
             'Select a Movie...', new_df['title'].values
